@@ -1,0 +1,283 @@
+Cmp-Mod V01 Created by Cvpcb (after 2015-mar-04 BZR unknown)-product   date = 10/05/2015 19:44:01
+
+BeginCmp
+TimeStamp = /554F7B45;
+Reference = A0;
+ValeurCmp = JUMPER;
+IdModule  = _LaurentPerso:smd-JUMP-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /554F7BE3;
+Reference = A1;
+ValeurCmp = JUMPER;
+IdModule  = _LaurentPerso:smd-JUMP-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /554F7F18;
+Reference = A2;
+ValeurCmp = JUMPER;
+IdModule  = _LaurentPerso:smd-JUMP-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5550D912;
+Reference = C1;
+ValeurCmp = 10u;
+IdModule  = Capacitors_Tantalum_SMD:TantalC_SizeB_EIA-3528_Reflow;
+EndCmp
+
+BeginCmp
+TimeStamp = /554F82BA;
+Reference = D1;
+ValeurCmp = 1N4148;
+IdModule  = Diodes_SMD:Diode-Universal-MELF-RM10_Handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /554FAF4A;
+Reference = D2;
+ValeurCmp = 1N4148;
+IdModule  = Diodes_SMD:Diode-Universal-MELF-RM10_Handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /554FAFC9;
+Reference = D3;
+ValeurCmp = 1N4148;
+IdModule  = Diodes_SMD:Diode-Universal-MELF-RM10_Handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /554FB025;
+Reference = D4;
+ValeurCmp = 1N4148;
+IdModule  = Diodes_SMD:Diode-Universal-MELF-RM10_Handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /554F75C6;
+Reference = LED1;
+ValeurCmp = 7-SEG-4-DIG-5463A;
+IdModule  = _LaurentPerso:7-SEGMENT-4-DIGIT-5463;
+EndCmp
+
+BeginCmp
+TimeStamp = /5550768A;
+Reference = P1;
+ValeurCmp = CONN_01X05;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x05;
+EndCmp
+
+BeginCmp
+TimeStamp = /554F8309;
+Reference = R1;
+ValeurCmp = 47k;
+IdModule  = Resistors_SMD:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /554F833B;
+Reference = R2;
+ValeurCmp = 47k;
+IdModule  = Resistors_SMD:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /554F8360;
+Reference = R3;
+ValeurCmp = 47k;
+IdModule  = Resistors_SMD:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /554FDCF1;
+Reference = R4;
+ValeurCmp = 47k;
+IdModule  = Resistors_SMD:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /554FDDC7;
+Reference = R5;
+ValeurCmp = 47k;
+IdModule  = Resistors_SMD:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /554FDE0E;
+Reference = R6;
+ValeurCmp = 47k;
+IdModule  = Resistors_SMD:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /554FDE5C;
+Reference = R7;
+ValeurCmp = 47k;
+IdModule  = Resistors_SMD:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /554FDF01;
+Reference = R8;
+ValeurCmp = 47k;
+IdModule  = Resistors_SMD:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /554FE26D;
+Reference = R9;
+ValeurCmp = 47k;
+IdModule  = Resistors_SMD:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55509662;
+Reference = R10;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /555096EF;
+Reference = R11;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /554F9150;
+Reference = SW1;
+ValeurCmp = 7;
+IdModule  = Buttons_Switches_ThroughHole:SW_PUSH_SMALL;
+EndCmp
+
+BeginCmp
+TimeStamp = /554F9225;
+Reference = SW2;
+ValeurCmp = 4;
+IdModule  = Buttons_Switches_ThroughHole:SW_PUSH_SMALL;
+EndCmp
+
+BeginCmp
+TimeStamp = /554F9295;
+Reference = SW3;
+ValeurCmp = 1;
+IdModule  = Buttons_Switches_ThroughHole:SW_PUSH_SMALL;
+EndCmp
+
+BeginCmp
+TimeStamp = /554F92D0;
+Reference = SW4;
+ValeurCmp = 8;
+IdModule  = Buttons_Switches_ThroughHole:SW_PUSH_SMALL;
+EndCmp
+
+BeginCmp
+TimeStamp = /554F945A;
+Reference = SW5;
+ValeurCmp = 5;
+IdModule  = Buttons_Switches_ThroughHole:SW_PUSH_SMALL;
+EndCmp
+
+BeginCmp
+TimeStamp = /554F9485;
+Reference = SW6;
+ValeurCmp = 2;
+IdModule  = Buttons_Switches_ThroughHole:SW_PUSH_SMALL;
+EndCmp
+
+BeginCmp
+TimeStamp = /554F97D4;
+Reference = SW7;
+ValeurCmp = 9;
+IdModule  = Buttons_Switches_ThroughHole:SW_PUSH_SMALL;
+EndCmp
+
+BeginCmp
+TimeStamp = /554F97DA;
+Reference = SW8;
+ValeurCmp = 6;
+IdModule  = Buttons_Switches_ThroughHole:SW_PUSH_SMALL;
+EndCmp
+
+BeginCmp
+TimeStamp = /554F97E0;
+Reference = SW9;
+ValeurCmp = 3;
+IdModule  = Buttons_Switches_ThroughHole:SW_PUSH_SMALL;
+EndCmp
+
+BeginCmp
+TimeStamp = /554F97E6;
+Reference = SW10;
+ValeurCmp = #;
+IdModule  = Buttons_Switches_ThroughHole:SW_PUSH_SMALL;
+EndCmp
+
+BeginCmp
+TimeStamp = /554F97EC;
+Reference = SW11;
+ValeurCmp = 0;
+IdModule  = Buttons_Switches_ThroughHole:SW_PUSH_SMALL;
+EndCmp
+
+BeginCmp
+TimeStamp = /554F97F2;
+Reference = SW12;
+ValeurCmp = *;
+IdModule  = Buttons_Switches_ThroughHole:SW_PUSH_SMALL;
+EndCmp
+
+BeginCmp
+TimeStamp = /554FA3C7;
+Reference = SW13;
+ValeurCmp = A;
+IdModule  = Buttons_Switches_ThroughHole:SW_PUSH_SMALL;
+EndCmp
+
+BeginCmp
+TimeStamp = /554FA40E;
+Reference = SW14;
+ValeurCmp = B;
+IdModule  = Buttons_Switches_ThroughHole:SW_PUSH_SMALL;
+EndCmp
+
+BeginCmp
+TimeStamp = /554FA448;
+Reference = SW15;
+ValeurCmp = C;
+IdModule  = Buttons_Switches_ThroughHole:SW_PUSH_SMALL;
+EndCmp
+
+BeginCmp
+TimeStamp = /554FA481;
+Reference = SW16;
+ValeurCmp = D;
+IdModule  = Buttons_Switches_ThroughHole:SW_PUSH_SMALL;
+EndCmp
+
+BeginCmp
+TimeStamp = /554FE2C4;
+Reference = SW17;
+ValeurCmp = E;
+IdModule  = Buttons_Switches_ThroughHole:SW_PUSH_SMALL;
+EndCmp
+
+BeginCmp
+TimeStamp = /554FE30E;
+Reference = SW18;
+ValeurCmp = F;
+IdModule  = Buttons_Switches_ThroughHole:SW_PUSH_SMALL;
+EndCmp
+
+BeginCmp
+TimeStamp = /554F7556;
+Reference = U1;
+ValeurCmp = HT16K33;
+IdModule  = Housings_SOIC:SOIC-28_7.5x17.9mm_Pitch1.27mm;
+EndCmp
+
+EndListe
