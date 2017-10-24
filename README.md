@@ -8,5 +8,5 @@ I2C interface
 
 ![](IMG/7seg_ht16k33.jpg)
 
-use Adafruit library
+use Adafruit library (https://github.com/adafruit/Adafruit_LED_Backpack)
 
