@@ -7,5 +7,6 @@ Afficheur 4*7 segments avec clavier, piloté par le controleur Holtek HT16K33
 interface I2C
 
 ![](IMG/7seg_ht16k33.jpg)
+![](IMG/7seg_back.jpg)
 
 Utilisez la librairie Adafruit (https://github.com/adafruit/Adafruit_LED_Backpack)
