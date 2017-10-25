@@ -9,5 +9,7 @@ I2C interface
 ![](IMG/7seg_ht16k33.jpg)
 ![](IMG/7seg_back.jpg)
 
+![](IMG/SCH.png)
+
 use Adafruit library (https://github.com/adafruit/Adafruit_LED_Backpack)
 
